@@ -94,9 +94,7 @@ li:before{
    margin-left: 150px;
    width: 1144px;
    height: 300px;
-   background-repeat: no-repeat;
-   background-image: linear-gradient();
-   
+   background-repeat: no-repeat;  
 
 }
 .btn-call{
@@ -110,11 +108,13 @@ li:before{
     padding: 10px 10px ;
     margin-left: 80px;   
     margin-top: 20px;  
+    color: #F15B22;
+   
 }
 
 .gradient-title{
     margin-top: 20px;
-    margin-left: 80px;
+    padding-left: 80px;
     padding-top: 100px;
 }
 
